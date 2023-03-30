@@ -1,1 +1,3 @@
-asd
+pip install sys
+pip install random
+pip install pygame
